@@ -1,4 +1,5 @@
 Superstore Sales Analysis Project- Power BI
+
 Dataset source- Kaggle-https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales/data
 Context- The growth of supermarkets in most populated cities are increasing and market competitions are also high. The dataset is one of the historical sales of supermarket company which has recorded in 3 different branches for 3 months data.  
 In this project, I have crated the dashboard using Power BI, analysed and visualized the dataset. I will use this dataset to discover some aspects: 
