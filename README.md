@@ -38,3 +38,17 @@ Maximum rush hour is in the evening and most customers are buying Food and bever
 Highest average rating- Food and Beverages
 Lowest average rating -Home and Lifestyle
 In health and Beauty there is marked difference between no of customers buying and average rating.
+
+
+![Screenshot 2024-05-27 171652](https://github.com/sushobhit96/Superstore-_sales_analysis_Power-BI/assets/155899985/8a3fa40e-e1b9-45c5-bbae-9f9c956e08e1)
+
+![Screenshot 2024-05-27 171544](https://github.com/sushobhit96/Superstore-_sales_analysis_Power-BI/assets/155899985/2b2b5179-e6e2-4526-986d-cd0eb1469678)
+
+![Screenshot 2024-05-27 171805](https://github.com/sushobhit96/Superstore-_sales_analysis_Power-BI/assets/155899985/dde0ab6f-4288-4d7b-97c8-b343dd5c9c02)
+
+![Screenshot 2024-05-27 171838](https://github.com/sushobhit96/Superstore-_sales_analysis_Power-BI/assets/155899985/df4fa68c-ea00-4bde-bc82-580fc27aee16)
+
+
+
+
+
