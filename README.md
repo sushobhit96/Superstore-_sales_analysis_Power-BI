@@ -4,7 +4,7 @@ Dataset source- Kaggle-https://www.kaggle.com/datasets/aungpyaeap/supermarket-sa
 
 Context- The growth of supermarkets in most populated cities are increasing and market competitions are also high. The dataset is one of the historical sales of supermarket company which has recorded in 3 different branches for 3 months data.  
 
-In this project, I have crated the dashboard using Power BI, analysed and visualized the dataset. I used this dataset to discover some aspects: 
+In this project, I have created the dashboard using Power BI, analysed and visualized the dataset. I used this dataset to discover some aspects: 
 
 •	Sales Trend in general across cities.
 
